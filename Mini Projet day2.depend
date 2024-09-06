@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1725613269 source:c:\users\youco\desktop\prog c\mini projet day2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1725640730 source:c:\users\youco\desktop\prog c\projects\mini projet day2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
